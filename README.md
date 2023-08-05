@@ -8,7 +8,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Built with](#built-with)
-  - [Learning](#What I have learned)
+  - [Learning](#What-I-have-learned)
   - [Author](#author)
 
 ## Overview
@@ -22,9 +22,9 @@ Users should be able to:
 
 ### Screenshot
 
-![mobile](./screenshot/Mobile.png)
-![desktop](./screenshot.jpg)
-![active](./screenshot.jpg)
+![mobile](https://raw.github.com/Alokray007/product-preview-component-FM/main/screenshot/Mobile.png)
+![desktop](https://raw.github.com/Alokray007/product-preview-component-FM/main/screenshot/Desktop.png)
+![active](https://raw.github.com/Alokray007/product-preview-component-FM/main/screenshot/Active.png)
 
 ### Links
 
@@ -41,15 +41,14 @@ Users should be able to:
 
 
 ### What I have learned
-[:is()] pseudo class function takes a selector list as its argument, and selects any element that can be selected by one of the selectors in that list.
+- [:is()] pseudo class function takes a selector list as its argument, and selects any element that can be selected by one of the selectors in that list.
 
-[].visually-hidden:not(:focus):not(:active)] class can be used to hide content visually but it will be helpful for screen readers.
+- [].visually-hidden:not(:focus):not(:active)] class can be used to hide content visually but it will be helpful for screen readers.
 
-[::before] creates a pseudo-element that is the first child of the selected element.
+- [::before] creates a pseudo-element that is the first child of the selected element.
 
-[media="(min-width:600px)"] Learned how to use media to use image for a specific width.
+- [media="(min-width:600px)"] Learned how to use media to use image for a specific width.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Alokray007](https://www.frontendmentor.io/profile/Alokray007)
